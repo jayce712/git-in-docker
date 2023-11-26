@@ -1,0 +1,13 @@
+{
+  "name": "git-in-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "dg": "./bin/run"
+  },
+  "files": [
+    "/bin",
+    "/lib"
+  ],
+  "license": "MIT"
+}
