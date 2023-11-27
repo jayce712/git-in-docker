@@ -23,8 +23,8 @@ $ npm unlink git-in-docker
 ```
 ## Usage
 ```bash
-$ gh -v
-$ gh remote -v
-$ gh branch -a
-$ gh push
+$ dg -v
+$ dg remote -v
+$ dg branch -a
+$ dg push
 ```
